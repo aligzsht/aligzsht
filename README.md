@@ -1,8 +1,8 @@
-# Hi there, I'm Ali Gozashti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Ali Gozashti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ![](https://komarev.com/ghpvc/?username=aligzsht&style=for-the-badge&label=VISITORS)
 
-Hey there, It's great to hear about your experience and impressment for exploring new technologies and building exciting projects.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hey there, It's great to hear about your experience and impressment for exploring new technologies and building exciting projects.
 
 🔭 Currently, I'm working on the Moadian system, an annual government tax system. It's an interesting project that involves leveraging my skills and knowledge to develop a efficient solution.
 
